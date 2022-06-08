@@ -90,4 +90,3 @@ The current v10 pr, [#1371](https://github.com/abalabahaha/eris/pull/1371) has n
 
 - **everything**
 - [everything-v10](https://github.com/DonovanDMC/eris/tree/everything-v10)
-- [interactions](https://github.com/DonovanDMC/eris/tree/interactions)
