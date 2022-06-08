@@ -21,6 +21,7 @@ npm i DonovanDMC/eris#everything
 <li><a href="https://github.com/bsian03">@bsian03</a> [<a href="https://github.com/abalabahaha/eris/pull/1285">Rework file attachments</a>]</li>
 <li><a href="https://github.com/DonovanDMC">@DonovanDMC</a> [<a href="https://github.com/abalabahaha/eris/pull/1309">refactor(interactions): Redo types and remove unnecessary data</a>]</li>
 <li><a href="https://github.com/Linker-123">@Linker-123</a> [<a href="https://github.com/abalabahaha/eris/pull/1336">Support modals</a>]</li>
+<li><a href="https://github.com/coolcalcacol">@coolcalcacol</a> [<a href="https://github.com/abalabahaha/eris/pull/1341">API v10 changes</a>]</li>
 <li><a href="https://github.com/coolcalcacol">@coolcalcacol</a> [<a href="https://github.com/abalabahaha/eris/pull/1358">Attachment type</a>]</li>
 <li><a href="https://github.com/flamableassassin">@flamableassassin</a> [<a href="https://github.com/abalabahaha/eris/pull/1369">Adding support for type 24 message</a>]</li>
 <li><a href="https://github.com/coolcalcacol">@coolcalcacol</a> [<a href="https://github.com/abalabahaha/eris/pull/1372">feat(permissions): Slash Permissions v2</a>]</li>
@@ -32,7 +33,6 @@ npm i DonovanDMC/eris#everything
 <summary>On Hold</summary>
 <ul>
 <li>(Directly Conflicts With <a href="https://github.com/abalabahaha/eris/pull/1285">1285</a>) <a href="https://github.com/Catboi8">@Catboi8</a> [<a href="https://github.com/abalabahaha/eris/pull/1281">File updates</a>]</li>
-<li>(See Explanation At Bottom) <a href="https://github.com/coolcalcacol">@coolcalcacol</a> [<a href="https://github.com/abalabahaha/eris/pull/1341">API v10 changes</a>]</li>
 </ul>
 </details>
 
@@ -83,10 +83,10 @@ npm i DonovanDMC/eris#everything
 </details>
 
 
-#### Why Is V10 Not Included
-The current v10 pr, [#1371](https://github.com/abalabahaha/eris/pull/1371) has not been included in this branch due to the message content intent being enforced early in that version. If you would like to use v10 along with these other combinations, see [everything-v10](https://github.com/DonovanDMC/eris/tree/everything-v10).
+#### V10 IS Included
+This branch includes our current v10 pr, [#1371](https://github.com/abalabahaha/eris/pull/1371). This means the new **Message Content** intent is a requirement to recieve general message content within this branch.
 
 #### Table of Contents
 
-- **everything**
-- [everything-v10](https://github.com/DonovanDMC/eris/tree/everything-v10)
+- [everything](https://github.com/DonovanDMC/eris/tree/everything)
+- **everything-v10**
