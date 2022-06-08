@@ -25,6 +25,8 @@ npm i DonovanDMC/eris#everything
 <li><a href="https://github.com/coolcalcacol">@coolcalcacol</a> [<a href="https://github.com/abalabahaha/eris/pull/1358">Attachment type</a>]</li>
 <li><a href="https://github.com/flamableassassin">@flamableassassin</a> [<a href="https://github.com/abalabahaha/eris/pull/1369">Adding support for type 24 message</a>]</li>
 <li><a href="https://github.com/coolcalcacol">@coolcalcacol</a> [<a href="https://github.com/abalabahaha/eris/pull/1372">feat(permissions): Slash Permissions v2</a>]</li>
+<li><a href="https://github.com/DonovanDMC">@DonovanDMC</a> [<a href="https://github.com/abalabahaha/eris/pull/1379">Overall Consistency Fixes & Minor Feature Additions</a>]</li>
+<li><a href="https://github.com/DonovanDMC">@DonovanDMC</a> [<a href="https://github.com/abalabahaha/eris/pull/1384">feat(options): Gateway Options</a>]</li>
 </ul>
 </details>
 
