@@ -1881,7 +1881,6 @@ declare namespace Eris {
       "DISCOVERABLE",
       "DISCOVERABLE_DISABLED",
       "ENABLED_DISCOVERABLE_BEFORE",
-      "EXPOSED_TO_ACTIVITIES_WTP_EXPERIMENT",
       "FEATURABLE",
       "GUILD_HOME_TEST",
       "HAS_DIRECTORY_ENTRY",
@@ -1891,7 +1890,6 @@ declare namespace Eris {
       "MEMBER_VERIFICATION_GATE_ENABLED",
       "MONETIZATION_ENABLED",
       "MORE_EMOJI",
-      "MORE_EMOJIS",
       "MORE_STICKERS",
       "NEWS",
       "NEW_THREAD_PERMISSIONS",
@@ -3818,6 +3816,7 @@ declare namespace Eris {
   }
 
   export class TextVoiceChannel extends VoiceChannel implements GuildTextable {
+    type: Constants["ChannelTypes"]["GUILD_VOICE"];
     lastMessageID: string;
     messages: Collection<Message<this>>;
     rateLimitPerUser: number;
