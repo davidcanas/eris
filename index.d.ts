@@ -3304,6 +3304,7 @@ declare namespace Eris {
     acknowledge(): Promise<void>;
     createFollowup(content: string | InteractionContent, file?: FileContent | FileContent[]): Promise<Message>;
     createMessage(content: string | InteractionContent, file?: FileContent | FileContent[]): Promise<void>;
+    createModal(content: InteractionModalContent): Promise<void>;
     defer(flags?: number): Promise<void>;
     deferUpdate(): Promise<void>;
     deleteMessage(messageID: string): Promise<void>;
