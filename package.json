@@ -1,6 +1,6 @@
 {
   "name": "eris",
-  "version": "0.17.1-everything-v10.23c4a21",
+  "version": "0.17.1-everything-v10.27f7dad",
   "description": "A NodeJS Discord library",
   "main": "./index.js",
   "exports": {
