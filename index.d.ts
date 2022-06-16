@@ -388,7 +388,7 @@ declare namespace Eris {
     /** @deprecated */
     guildCreateTimeout?: number;
     /** @deprecated */
-    intents: number | IntentStrings[];
+    intents?: number | IntentStrings[];
     /** @deprecated */
     largeThreshold?: number;
     /** @deprecated */
@@ -838,7 +838,7 @@ declare namespace Eris {
     firstShardID?: number;
     getAllUsers?: boolean;
     guildCreateTimeout?: number;
-    intents: number | IntentStrings[];
+    intents?: number | IntentStrings[];
     largeThreshold?: number;
     lastShardID?: number;
     maxReconnectAttempts?: number;
