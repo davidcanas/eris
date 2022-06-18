@@ -27,6 +27,7 @@ npm i DonovanDMC/eris#everything
 <li><a href="https://github.com/coolcalcacol">@coolcalcacol</a> [<a href="https://github.com/abalabahaha/eris/pull/1372">feat(permissions): Slash Permissions v2</a>]</li>
 <li><a href="https://github.com/DonovanDMC">@DonovanDMC</a> [<a href="https://github.com/abalabahaha/eris/pull/1379">Overall Consistency Fixes & Minor Feature Additions</a>]</li>
 <li><a href="https://github.com/DonovanDMC">@DonovanDMC</a> [<a href="https://github.com/abalabahaha/eris/pull/1384">feat(options): Gateway Options</a>]</li>
+<li><a href="https://github.com/DonovanDMC">@DonovanDMC</a> [<a href="https://github.com/abalabahaha/eris/pull/1390">feat(AutoModeration): Support Auto Moderation</a>]</li>
 </ul>
 </details>
 
